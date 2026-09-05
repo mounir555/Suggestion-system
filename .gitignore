@@ -1,0 +1,1 @@
+target/ node_modules/ backend/uploads/ .env .idea/ .vscode/ *.log
